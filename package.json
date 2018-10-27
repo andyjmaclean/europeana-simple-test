@@ -1,5 +1,5 @@
 {
-  "name": "@europeana/europeana-simple-test",
+  "name": "module-simple-test",
   "version": "1.0.0",
   "description": "Basic js module",
   "main": "src/index.js",
