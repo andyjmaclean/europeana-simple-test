@@ -1,6 +1,6 @@
 {
   "name": "module-simple-test",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Basic js module",
   "main": "src/index.js",
   "repository": {
